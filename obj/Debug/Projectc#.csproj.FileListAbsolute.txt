@@ -1,0 +1,13 @@
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\bin\Debug\Projectc#.exe.config
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\bin\Debug\Projectc#.exe
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\bin\Debug\Projectc#.pdb
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\bin\Debug\System.Data.SQLite.dll
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\bin\Debug\System.Data.SQLite.xml
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.csproj.AssemblyReference.cache
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc_.Form1.resources
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc_.Properties.Resources.resources
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.csproj.GenerateResource.cache
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.csproj.CoreCompileInputs.cache
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.csproj.CopyComplete
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.exe
+C:\Users\samir\OneDrive\Desktop\DMWM_2\c #\Projectc#\obj\Debug\Projectc#.pdb
